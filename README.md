@@ -1,1 +1,1 @@
-![JetRacer](https://github.com/[nekita473]/[Nvidia_Jetracer]/blob/[main]/photos/JetRacer.png?raw=true)
+![JetRacer](https://github.com/nekita473/Nvidia_Jetracer/blob/main/photos/JetRacer.png?raw=true)
